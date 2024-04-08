@@ -1,2 +1,6 @@
-# Final_Project
-Final_project
+# 📚 스터디 웹 커뮤니티 STUDY WITH HOUR
+스터디 그룹 생성 및 관리 & 스터디카페 예약까지 하나의 플랫폼에서 해결 가능~
+
+## 기획 의도
+## 개발 기간
+## 주요 기능
